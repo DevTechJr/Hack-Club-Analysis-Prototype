@@ -11,7 +11,7 @@ Using scraped web results which have been stored in a csv, this program uses a t
 Clone this repository and view "Hack Club Analysis.pynb" in Juptyer Notebook, VS Code or any other pynb viewing tool.
 
 ```bash
-git clone 
+git clone https://github.com/DevTechJr/Hack-Club-Analysis-Prototype.git
 ```
 
 ## Tools & Library Imports
