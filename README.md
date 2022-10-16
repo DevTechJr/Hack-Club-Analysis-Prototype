@@ -104,7 +104,7 @@ finalResults
 - Web Scraper Program (I will write out a Scrapy script to automate the web scraping procedure without any dependency on other 3rd party tools as well as limitations on how many items I can scrap for free. The scraped web results were retrieved from a pre-made web scraper tool on a free plan. This resulted in a small data set size which surely would have influenced the results of the model and the bias in it.
 )
 
-- Random Forest Model (For the actual engine, I will switch to using a Random Forest Model to analyse data and determine results because of it's stronger accuracy and decision making, compared to the standard decision tree)
+- Random Forest Model (For the actual engine, I will switch to using a Random Forest Model to analyse data and determine results because of it's stronger accuracy and decision making, compared to the standard decision tree.)
 
 
 ## License
